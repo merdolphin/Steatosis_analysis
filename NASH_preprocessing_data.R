@@ -34,11 +34,11 @@ mRNA.gene.count
 
 liver.meta.count.0[,1:30] -> liver.meta.dict
 liver.meta.count.0[,-c(1:30)] -> liver.meta.count
-names(liver.meta.count.0) <- gsub(x=names(liver.meta.count.0), pattern="X", replacement = "")
+names(liver.meta.count) <- gsub(x=names(liver.meta.count), pattern="X", replacement = "")
 
 plasma.meta.count.0[,1:30] -> plasma.meta.dict
 plasma.meta.count.0[,-c(1:30)] -> plasma.meta.count
-names(plasma.meta.count.0) <- gsub(x=names(plasma.meta.count.0), pattern="X", replacement = "")
+names(plasma.meta.count) <- gsub(x=names(plasma.meta.count), pattern="X", replacement = "")
 
 identical(liver.meta.dict, plasma.meta.dict)
 liver.meta.dict
