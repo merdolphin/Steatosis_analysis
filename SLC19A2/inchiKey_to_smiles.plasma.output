@@ -1,0 +1,55 @@
+InChIKey: ZAWIXNGTTZTBKV-UHFFFAOYSA-N, SMILES: C1(C(C(C(C(C1OP(=O)(O)O)OP(=O)(O)O)O)OP(=O)(O)O)OP(=O)(O)O)O
+Failed to retrieve SMILES for ZAWIXNGTTZTBKV-VLFADPLGSA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZAWIXNGTTZTBKV-VLFADPLGSA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for BYUVDTMVSFIVRS-YKPVOZFUNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BYUVDTMVSFIVRS-YKPVOZFUNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for QINYNARVNCKDIS-JJNYKJKHNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/QINYNARVNCKDIS-JJNYKJKHNA-N/property/CanonicalSMILES/JSON
+InChIKey: WHUUTDBJXJRKMK-UHFFFAOYSA-N, SMILES: C(CC(=O)O)C(C(=O)O)N
+InChIKey: WHUUTDBJXJRKMK-VKHMYHEASA-N, SMILES: C(CC(=O)O)C(C(=O)O)N
+Failed to retrieve SMILES for FPTSLKCBYZXNAK-UZYVYHOENA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FPTSLKCBYZXNAK-UZYVYHOENA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for LMJRVTNHOFDJIG-ZARCXLEVNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LMJRVTNHOFDJIG-ZARCXLEVNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for ZQTAMPRZFOOEEP-HZJYTTRNNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZQTAMPRZFOOEEP-HZJYTTRNNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for IHNKQIMGVNPMTC-UHFFFAOYNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IHNKQIMGVNPMTC-UHFFFAOYNA-N/property/CanonicalSMILES/JSON
+InChIKey: HVAUUPRFYPCOCA-AREMUKBSSA-N, SMILES: CCCCCCCCCCCCCCCCOCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)C
+InChIKey: IHNKQIMGVNPMTC-RUZDIDTESA-N, SMILES: CCCCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)O
+Failed to retrieve SMILES for IHNKQIMGVNPMTC-UHFFFAOYNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IHNKQIMGVNPMTC-UHFFFAOYNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for WAKAXMGRMDDRSA-UTJQPWESNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WAKAXMGRMDDRSA-UTJQPWESNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for YYQVCMMXPIJVHY-UTJQPWESNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/YYQVCMMXPIJVHY-UTJQPWESNA-N/property/CanonicalSMILES/JSON
+InChIKey: XEEQGYMUWCZPDN-CVRLYYSRSA-N, SMILES: C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O
+Failed to retrieve SMILES for ADJQUIBCRPNWKM-PSFFNQFONA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ADJQUIBCRPNWKM-PSFFNQFONA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for BFESERKIGDPVEQ-NQMBTPPKNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BFESERKIGDPVEQ-NQMBTPPKNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for BMNYBKJUMUHELU-YFZNWQETNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BMNYBKJUMUHELU-YFZNWQETNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for BPMDIBPSLFIZFP-VDLIDOGWNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BPMDIBPSLFIZFP-VDLIDOGWNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for BVAJZJJNWQLTFX-HDTVVTMWNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/BVAJZJJNWQLTFX-HDTVVTMWNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for IEHARTFLQIOMSP-GQQIUOJVNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/IEHARTFLQIOMSP-GQQIUOJVNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for JCYYNCGWHOFYQC-WARBFJPKNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JCYYNCGWHOFYQC-WARBFJPKNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for JPESYMKJPOXTKF-FIYYLASMNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JPESYMKJPOXTKF-FIYYLASMNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for JPKYQTPNIASCMT-WYAIZQBMNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JPKYQTPNIASCMT-WYAIZQBMNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for JVAURTODGYBQRI-SSMZVYFMNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/JVAURTODGYBQRI-SSMZVYFMNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for LJMPZHDAHRDXEY-DXPXESHUNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/LJMPZHDAHRDXEY-DXPXESHUNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for MZWRCGFFEYNBKN-RCILNJRANA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/MZWRCGFFEYNBKN-RCILNJRANA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for NSGDGBDJXXWWRA-QFLPHEOCNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NSGDGBDJXXWWRA-QFLPHEOCNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for NXHSJXVOMDUVAI-GAXXYEEVNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/NXHSJXVOMDUVAI-GAXXYEEVNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for OJAMAJOCGFGQTN-JBCRODDMNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/OJAMAJOCGFGQTN-JBCRODDMNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for PRHNILRYWZNYIX-KWDLOZNINA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PRHNILRYWZNYIX-KWDLOZNINA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for RBMRJRVDNYOLHT-YBEFXYKVNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/RBMRJRVDNYOLHT-YBEFXYKVNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for SIDQEJRQMOUEMI-YIYDIVRJNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SIDQEJRQMOUEMI-YIYDIVRJNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for SJHONDRWQZRQGB-JFBWPRAHNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SJHONDRWQZRQGB-JFBWPRAHNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for SRCGMCAMGIRVDS-OYCVDMEZNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SRCGMCAMGIRVDS-OYCVDMEZNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for VRCUDHFKGLRCEU-RZBDHLQVNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/VRCUDHFKGLRCEU-RZBDHLQVNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for WGOIVCBYZCMAGO-YYJURCJPNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/WGOIVCBYZCMAGO-YYJURCJPNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for XAZSCKNSWXBWSP-IKESUKKQNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/XAZSCKNSWXBWSP-IKESUKKQNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for ZXMPOUGKUSYSFX-REQAEBHQNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZXMPOUGKUSYSFX-REQAEBHQNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for HJYITXYOCDILBF-HKOLQMFGNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HJYITXYOCDILBF-HKOLQMFGNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for ZQLPLCXRBVPKGP-DYMXKLMANA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZQLPLCXRBVPKGP-DYMXKLMANA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for HJYITXYOCDILBF-HKOLQMFGNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/HJYITXYOCDILBF-HKOLQMFGNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for FBJHLVFYYYHIEK-SZXPTWDZNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/FBJHLVFYYYHIEK-SZXPTWDZNA-N/property/CanonicalSMILES/JSON
+InChIKey: ODHCTXKNWHHXJC-GSVOUGTGSA-N, SMILES: C1CC(=O)NC1C(=O)O
+InChIKey: ODHCTXKNWHHXJC-VKHMYHEASA-N, SMILES: C1CC(=O)NC1C(=O)O
+Failed to retrieve SMILES for ODHCTXKNWHHXJC-UHFFFAOYNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ODHCTXKNWHHXJC-UHFFFAOYNA-N/property/CanonicalSMILES/JSON
+InChIKey: ODHCTXKNWHHXJC-VKHMYHEASA-N, SMILES: C1CC(=O)NC1C(=O)O
+Failed to retrieve SMILES for ISICNDDVNWQOPB-ZQHSETAFNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ISICNDDVNWQOPB-ZQHSETAFNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for SZCZVTVCLJXBCM-NXVVXOECNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/SZCZVTVCLJXBCM-NXVVXOECNA-N/property/CanonicalSMILES/JSON
+InChIKey: HZCLJRFPXMKWHR-FEBLJDHQSA-N, SMILES: CCCCCCCCCCCCCC=CC(C(COP(=O)([O-])OCC[N+](C)(C)C)NC(=O)CCCCCCCCCCC)O
+InChIKey: ODADKLYLWWCHNB-LDYBVBFYSA-N, SMILES: CC1=CC(=CC2=C1OC(CC2)(C)CCC=C(C)CCC=C(C)CCC=C(C)C)O
+InChIKey: PSXQJZDFWDKBIP-MNVVPKPGSA-N, SMILES: CC(CCCC(C)C(=O)O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C
+Failed to retrieve SMILES for PTACBPKQWASVGS-KTSKQPPBNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/PTACBPKQWASVGS-KTSKQPPBNA-N/property/CanonicalSMILES/JSON
+Failed to retrieve SMILES for ZVYZJDLXLBSEEJ-VZENPPDTNA-N: 404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/inchikey/ZVYZJDLXLBSEEJ-VZENPPDTNA-N/property/CanonicalSMILES/JSON
